@@ -1,0 +1,13 @@
+---
+title: "lab3"
+author: "Joshua"
+date: "9/14/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+## Placeholder for website
