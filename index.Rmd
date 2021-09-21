@@ -1,0 +1,28 @@
+---
+title: ' '
+pagetitle: 'Joshua Dierker'
+output: 
+  html_document: 
+    css: "styles.css"
+---
+
+```{R echo=F, eval=F}
+#to build this website into the _site directory, run
+rmarkdown::site_generator()
+```
+ 
+<img src="IMG_1282.jpg" style=width:40% class="img-circle">
+
+<br>
+
+# Welcome! My name is Joshua Dierker. 
+  
+</br>
+
+##### I am a third-year Computer Science major pursuing an Applied Statistical Modeling certificate
+
+##### I enjoy listening to records and collecting wristwatches.
+
+##### You can find my portfolio [here](/portfolio)!
+
+---
