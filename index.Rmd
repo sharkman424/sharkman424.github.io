@@ -1,13 +1,28 @@
 ---
-title: "lab3"
-author: "Joshua"
-date: "9/14/2021"
-output: html_document
+title: ' '
+pagetitle: 'Your Name'
+output: 
+  html_document: 
+    css: "styles.css"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+```{R echo=F, eval=F}
+#to build this website into the _site directory, run
+rmarkdown::site_generator()
 ```
+ 
+<img src="IMG_1282.jpg" style=width:40% class="img-circle">
 
-## R Markdown
-## Placeholder for website
+<br>
+
+# Welcome! I am Joshua Dierker. 
+  
+</br>
+
+##### I am a third-year Computer Science major pursuing an Applied Statistical Modeling certificate
+
+##### I enjoy listening to records and collecting wristwatches.
+
+##### You can find my portfolio [here](/portfolio)!
+
+---

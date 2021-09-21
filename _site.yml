@@ -1,0 +1,16 @@
+name: "Joshua Dierker"
+navbar:
+  title: "My Personal Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Portfolio"
+      href: portfolio.html
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<joshuadierker@gmail.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/sharkman424/
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/josh-dierker-125439192/
+      
