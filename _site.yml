@@ -8,9 +8,9 @@ navbar:
       href: portfolio.html
   right: 
     - icon: fa-envelope fa-lg
-      href: mailto:<your@email.com>
-    - icon: fa-github fa-lg
-      href: http://github.com/USERNAME/
-    - icon: fa-linkedin fa-lg
-      href: http://linkedin.com/USERNAME
+      href: mailto:<joshuadierker@gmail.com>
+    - icon: fab fa-github fa-lg
+      href: http://github.com/sharkman424/
+    - icon: fab fa-linkedin fa-lg
+      href: http://linkedin.com/in/josh-dierker-125439192/
       
