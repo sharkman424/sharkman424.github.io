@@ -1,6 +1,6 @@
 ---
 title: ' '
-pagetitle: 'Your Name'
+pagetitle: 'Joshua Dierker'
 output: 
   html_document: 
     css: "styles.css"
@@ -15,7 +15,7 @@ rmarkdown::site_generator()
 
 <br>
 
-# Welcome! I am Joshua Dierker. 
+# Welcome! My name is Joshua Dierker. 
   
 </br>
 
